@@ -40,5 +40,27 @@ This analysis provides a data-driven overview of real estate performance from 20
 - **10 agents** worked for the company during this period.  
 - **Jeffery Nelson** ranked as the **top agent**, generating **$6.1M** in sales from **8 properties** sold.  
 - **Blackbury** emerged as the **top-performing city** for this real estate firm.  
-- **Michael Ochoa** was the **top buyer**, purchasing **5 properties** in 5 years.  
+- **Michael Ochoa** was the **top buyer**, purchasing **5 properties** in 5 years.
+## 💡 Recommendations
+
+### 1. Expand Operations in High-Performing Cities
+- Focus on **Blackbury**, the company’s top-performing city.  
+- Explore **premium property listings** and **new developments** in this area to sustain revenue momentum.  
+
+### 2. Strengthen Buyer Engagement
+- Re-engage the **9 buyers** who haven’t completed purchases through targeted follow-ups and personalized offers.  
+- Introduce loyalty or referral incentives to convert prospects into active buyers.  
+
+### 3. Support and Scale Top Agents
+- Leverage insights from **Jeffery Nelson’s** high-performing strategies.  
+- Provide **training and mentorship programs** to replicate his success across other agents.  
+
+### 4. Diversify Property Portfolio
+- Increase listings in the **$500K+ range**, where sales are trending upward.  
+- Maintain a balance between premium and mid-tier properties to appeal to broader buyer segments.  
+
+
+### 5. Focus on Long-Term Client Retention
+- Build long-term relationships with high-value clients like **Michael Ochoa**.  
+- Implement after-sale engagement strategies to encourage repeat purchases and referrals.
 
