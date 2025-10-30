@@ -1,7 +1,7 @@
 <img width="1797" height="1012" alt="image" src="https://github.com/user-attachments/assets/ff1825b7-207c-4e43-9380-6ad6012ad65e" />
 
 
-# Real-Estate-Company-Performance-Analysis
+# Real Estate Company Performance Analysis
 Real estate performance analysis using sql workbench and power bi
 # INTRODUCTION
 ## Real Estate Performance Analysis (2020–2025)
