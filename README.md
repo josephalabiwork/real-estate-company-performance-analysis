@@ -52,7 +52,7 @@ This analysis provides a data driven overview of real estate performance from 20
 - Re engage the **9 buyers** who haven’t completed purchases through targeted follow-ups and personalized offers.  
 - Introduce loyalty or referral incentives to convert prospects into active buyers.  
 ### 3. Support and Scale Top Agents
-- Leverage insights from **Jeffery Nelson’s** high-performing strategies.  
+- Leverage insights from **Jeffery Nelson’s** high performing strategies.  
 - Provide **training and mentorship programs** to replicate his success across other agents.  
 ### 4. Diversify Property Portfolio
 - Increase listings in the **$500K+ range**, where sales are trending upward.  
