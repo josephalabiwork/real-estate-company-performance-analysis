@@ -59,7 +59,7 @@ This analysis provides a data driven overview of real estate performance from 20
 - Maintain a balance between premium and mid-tier properties to appeal to broader buyer segments.  
 ### 5. Focus on Long-Term Client Retention
 - Build long term relationships with high-value clients like **Michael Ochoa**.  
-- Implement after-sale engagement strategies to encourage repeat purchases and referrals.
+- Implement after sale engagement strategies to encourage repeat purchases and referrals.
 - ## 🏁 Conclusion
 The Real Estate Performance Analysis (2020–2025) reveals a company with strong and consistent growth, driven by steady transaction volumes, rising property values, and a loyal buyer base.  
 Through the combined use of **SQL** for data preparation and **Power BI** for visualization, this project provides actionable insights into revenue performance, buyer behavior, and agent productivity.  
