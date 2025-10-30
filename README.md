@@ -49,7 +49,7 @@ This analysis provides a data driven overview of real estate performance from 20
 - Focus on **Blackbury**, the company’s top-performing city.  
 - Explore **premium property listings** and **new developments** in this area to sustain revenue momentum.  
 ### 2. Strengthen Buyer Engagement
-- Re engage the **9 buyers** who haven’t completed purchases through targeted follow-ups and personalized offers.  
+- Re engage the **9 buyers** who haven’t completed purchases through targeted follow ups and personalized offers.  
 - Introduce loyalty or referral incentives to convert prospects into active buyers.  
 ### 3. Support and Scale Top Agents
 - Leverage insights from **Jeffery Nelson’s** high performing strategies.  
