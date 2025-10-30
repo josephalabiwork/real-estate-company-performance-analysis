@@ -46,7 +46,7 @@ This analysis provides a data driven overview of real estate performance from 20
 - **Michael Ochoa** was the **top buyer**, purchasing **5 properties** in 5 years.
 ## 💡 Recommendations
 ### 1. Expand Operations in High Performing Cities
-- Focus on **Blackbury**, the company’s top-performing city.  
+- Focus on **Blackbury**, the company’s top performing city.  
 - Explore **premium property listings** and **new developments** in this area to sustain revenue momentum.  
 ### 2. Strengthen Buyer Engagement
 - Re engage the **9 buyers** who haven’t completed purchases through targeted follow ups and personalized offers.  
