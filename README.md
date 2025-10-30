@@ -1,4 +1,5 @@
-<img width="899" height="503" alt="image" src="https://github.com/user-attachments/assets/32b96746-3b64-4e70-84ec-327a47cffa06" />
+<img width="1789" height="1008" alt="image" src="https://github.com/user-attachments/assets/07e1033c-a205-46e3-8cf4-910638104343" />
+
 
 # Real-Estate-Company-Performance-Analysis
 real estate performance analysis using sql workbench and power bi
