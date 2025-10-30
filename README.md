@@ -57,7 +57,7 @@ This analysis provides a data driven overview of real estate performance from 20
 ### 4. Diversify Property Portfolio
 - Increase listings in the **$500K+ range**, where sales are trending upward.  
 - Maintain a balance between premium and mid-tier properties to appeal to broader buyer segments.  
-### 5. Focus on Long-Term Client Retention
+### 5. Focus on Long Term Client Retention
 - Build long term relationships with high-value clients like **Michael Ochoa**.  
 - Implement after sale engagement strategies to encourage repeat purchases and referrals.
 - ## 🏁 Conclusion
