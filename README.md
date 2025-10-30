@@ -42,7 +42,7 @@ This analysis provides a data driven overview of real estate performance from 20
 - **51 unique properties** were sold across 5 years.  
 - **10 agents** worked for the company during this period.  
 - **Jeffery Nelson** ranked as the **top agent**, generating **$6.1M** in sales from **8 properties** sold.  
-- **Blackbury** emerged as the **top-performing city** for this real estate firm.  
+- **Blackbury** emerged as the **top performing city** for this real estate firm.  
 - **Michael Ochoa** was the **top buyer**, purchasing **5 properties** in 5 years.
 ## 💡 Recommendations
 ### 1. Expand Operations in High-Performing Cities
