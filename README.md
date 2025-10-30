@@ -2,7 +2,7 @@
 
 
 # Real-Estate-Company-Performance-Analysis
-real estate performance analysis using sql workbench and power bi
+Real estate performance analysis using sql workbench and power bi
 # INTRODUCTION
 ## Real Estate Performance Analysis (2020–2025)
 This analysis provides a data driven overview of real estate performance from 2020–2025.
