@@ -1,4 +1,4 @@
-<img width="1789" height="1008" alt="image" src="https://github.com/user-attachments/assets/07e1033c-a205-46e3-8cf4-910638104343" />
+<img width="1797" height="1012" alt="image" src="https://github.com/user-attachments/assets/ff1825b7-207c-4e43-9380-6ad6012ad65e" />
 
 
 # Real-Estate-Company-Performance-Analysis
