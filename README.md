@@ -1,4 +1,4 @@
-# Real-estate-company-Performance-Analysis
+# Real-Estate-Company-Performance-Analysis
 ## sales analysis using sql workbench..  joined four tables on sql from four different files to get exploratory data analysis and visualized on powerbi. null values kept because it represents important analysis
 # INTRODUCTION
 ## Real Estate Performance Analysis (2020–2025)
@@ -42,25 +42,27 @@ This analysis provides a data-driven overview of real estate performance from 20
 - **Blackbury** emerged as the **top-performing city** for this real estate firm.  
 - **Michael Ochoa** was the **top buyer**, purchasing **5 properties** in 5 years.
 ## 💡 Recommendations
-
 ### 1. Expand Operations in High-Performing Cities
 - Focus on **Blackbury**, the company’s top-performing city.  
 - Explore **premium property listings** and **new developments** in this area to sustain revenue momentum.  
-
 ### 2. Strengthen Buyer Engagement
 - Re-engage the **9 buyers** who haven’t completed purchases through targeted follow-ups and personalized offers.  
 - Introduce loyalty or referral incentives to convert prospects into active buyers.  
-
 ### 3. Support and Scale Top Agents
 - Leverage insights from **Jeffery Nelson’s** high-performing strategies.  
 - Provide **training and mentorship programs** to replicate his success across other agents.  
-
 ### 4. Diversify Property Portfolio
 - Increase listings in the **$500K+ range**, where sales are trending upward.  
 - Maintain a balance between premium and mid-tier properties to appeal to broader buyer segments.  
-
-
 ### 5. Focus on Long-Term Client Retention
 - Build long-term relationships with high-value clients like **Michael Ochoa**.  
 - Implement after-sale engagement strategies to encourage repeat purchases and referrals.
+- ## 🏁 Conclusion
+The Real Estate Performance Analysis (2020–2025) reveals a company with strong and consistent growth, driven by steady transaction volumes, rising property values, and a loyal buyer base.  
+Through the combined use of **SQL** for data preparation and **Power BI** for visualization, this project provides actionable insights into revenue performance, buyer behavior, and agent productivity.  
+With over **$7.6M** in total sales and all **51 properties** successfully sold, the business demonstrates operational efficiency and market strength.  
+Top contributors — including **Jeffery Nelson** (best agent) and **Michael Ochoa** (top buyer) — highlight the impact of strong relationships and performance-driven strategies.  
+Looking ahead, the company can build on these insights by expanding in high-performing cities, deepening buyer engagement, and leveraging data analytics to guide future decisions.  
+This analysis sets the foundation for **sustained growth and smarter real estate investments** in the coming years.
+
 
