@@ -45,7 +45,7 @@ This analysis provides a data driven overview of real estate performance from 20
 - **Blackbury** emerged as the **top performing city** for this real estate firm.  
 - **Michael Ochoa** was the **top buyer**, purchasing **5 properties** in 5 years.
 ## 💡 Recommendations
-### 1. Expand Operations in High-Performing Cities
+### 1. Expand Operations in High Performing Cities
 - Focus on **Blackbury**, the company’s top-performing city.  
 - Explore **premium property listings** and **new developments** in this area to sustain revenue momentum.  
 ### 2. Strengthen Buyer Engagement
