@@ -64,7 +64,7 @@ This analysis provides a data driven overview of real estate performance from 20
 The Real Estate Performance Analysis (2020–2025) reveals a company with strong and consistent growth, driven by steady transaction volumes, rising property values, and a loyal buyer base.  
 Through the combined use of **SQL** for data preparation and **Power BI** for visualization, this project provides actionable insights into revenue performance, buyer behavior, and agent productivity.  
 With over **$7.6M** in total sales and all **51 properties** successfully sold, the business demonstrates operational efficiency and market strength.  
-Top contributors including **Jeffery Nelson** (best agent) and **Michael Ochoa** (top buyer)  highlight the impact of strong relationships and performance-driven strategies.  
+Top contributors including **Jeffery Nelson** (best agent) and **Michael Ochoa** (top buyer)  highlight the impact of strong relationships and performance driven strategies.  
 Looking ahead, the company can build on these insights by expanding in high-performing cities, deepening buyer engagement, and leveraging data analytics to guide future decisions.  
 This analysis sets the foundation for **sustained growth and smarter real estate investments** in the coming years.
 
